@@ -2,3 +2,4 @@
 #type = "t2.micro"
 ## This is a Terraform configuration file for creating an EC2 instance in AWS.Module "ec2_instance" {
 #OS of the system is windows
+#added ebs volume
